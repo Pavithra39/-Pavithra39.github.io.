@@ -1,0 +1,21 @@
+# Site settings
+title: Pavithra's DevOps Portfolio
+description: Welcome to my DevOps portfolio!
+
+# Author settings
+author:
+  name: Pavithra
+  bio: DevOps Engineer
+  location: Your Location
+
+# Social media links
+social:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/kutagulla-p-309533214
+
+# Theme settings (if applicable)
+# You may have specific theme settings depending on the theme you choose
+# Add them here according to the theme's documentation
+
+# Other settings
+# Add any other configurations specific to your site
